@@ -9,7 +9,7 @@ ___________________________________________
 - **Sangtei : [Miss Sangtei](https://t.me/Sangtei_bot)**
 - **Cathy : [Cathy](https://cathyybot)**
 - **Marvel : [Marvel](https://t.me/Marvelybot)**
-- **Tereuhte : [Tereuhte](https://tereuhtex_bot)**
+- **Tereuhte : [Tereuhte](https://t.me/tereuhtex_bot)**
 - **Lynn : [Lynn](https://t.me/dikams_bot)**
 
 ## <div align="center"> Want to Add your bot here?</div>
