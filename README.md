@@ -15,7 +15,7 @@ ___________________________________________
 ## <div align="center"> Want to Add your bot here?</div>
 - if you want to add your telegram bot here in our list, submit your bot below.
 
-- Visit This bot [Bot Submitna](https://t.me/mzsubbot)
+- Visit This bot <a href="https://t.me/mzsubbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 - If your bot is Group Management bot, write like this↓
 
@@ -28,12 +28,9 @@ ___________________________________________
 ``Remember don't post offtopic things if you're in our discussion group, if you don't follow our rules results will be ban``
 
 ______________________________________________________________________________
-<p align="center">Programming Languages</p>
+<h2 align="center">Programming & Others</h2>
 
-- **Python**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 
-<img src="https://github.com/lalrochhara/Mizo-Bots-List/blob/master/badges/rsz_python.png" height="70" width="80">
-
-- **Pyrogram**
-
-<img src="https://github.com/lalrochhara/Mizo-Bots-List/blob/master/badges/pyrogram.svg" height="150" width="100">
+- **and many more**
