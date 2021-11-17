@@ -7,7 +7,7 @@ ___________________________________________
 <h1 align="center">Groups management Bots.</h1>
 
 - **Sangtei : [Miss Sangtei](https://t.me/Sangtei_bot)**
-- **Cathy : [Cathy](https://cathyybot)**
+- **Cathy : [Cathy](https://t.me/Cathyy_bot)**
 - **Marvel : [Marvel](https://t.me/Marvelybot)**
 - **Tereuhte : [Tereuhte](https://t.me/tereuhtex_bot)**
 - **Lynn : [Lynn](https://t.me/dikams_bot)**
