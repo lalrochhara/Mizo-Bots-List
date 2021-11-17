@@ -27,6 +27,13 @@ ___________________________________________
 
 ``Remember don't post offtopic things if you're in our discussion group, if you don't follow our rules results will be ban``
 
-
+______________________________________________________________________________
 <p align="center">Programming Languages</p>
-<img src="https://github.com/lalrochhara/Mizo-Bots-List/blob/master/badges/rsz_python.png">
+
+- **Python**
+
+<img src="https://github.com/lalrochhara/Mizo-Bots-List/blob/master/badges/rsz_python.png" height="70" width="80">
+
+- **Pyrogram**
+
+<img src="https://github.com/lalrochhara/Mizo-Bots-List/blob/master/badges/pyrogram.svg" height="150" width="100">
