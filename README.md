@@ -6,6 +6,9 @@ ___________________________________________
  <br/>
 <h1 align="center">Groups management Bots.</h1>
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+
 - **Sangtei : [Miss Sangtei](https://t.me/Sangtei_bot)**
 - **Cathy : [Cathy](https://t.me/Cathyy_bot)**
 - **Marvel : [Marvel](https://t.me/Marvelybot)**
@@ -23,7 +26,7 @@ ___________________________________________
 
 - Also others bot submit is same like we mentioned above.
 
-- if you want to join our discussion group we're here in [Mizo Bots Talk](https://MzBotsTalk).
+- if you want to join our discussion group we're here <a href="https://MzBotsTalk">![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)</a>
 
 ``Remember don't post offtopic things if you're in our discussion group, if you don't follow our rules results will be ban``
 
@@ -31,6 +34,11 @@ ______________________________________________________________________________
 <h2 align="center">Programming & Others</h2>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> > Many more
 
-- **and many more**
+
+<h3 align="center">Our Aim In Life is.</h3>
+
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+
+_______________________________________________________________________________
