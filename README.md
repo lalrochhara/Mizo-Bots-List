@@ -26,3 +26,7 @@ ___________________________________________
 - if you want to join our discussion group we're here in [Mizo Bots Talk](https://MzBotsTalk).
 
 ``Remember don't post offtopic things if you're in our discussion group, if you don't follow our rules results will be ban``
+
+
+<p align="center">Programming Languages</p>
+<img src="https://github.com/lalrochhara/Mizo-Bots-List/blob/master/badges/rsz_python.png">
