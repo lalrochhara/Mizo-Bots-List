@@ -9,7 +9,7 @@ ___________________________________________
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
-- **Sangtei : [Miss Sangtei](https://t.me/Sangtei_bot)** (Not Maintained)
+- **Sangtei : [Sangtei](https://t.me/Sangtei_bot)** (Not Maintained)
 - **Cathy : [Cathy](https://t.me/Cathyy_bot)** (Not maintained)
 - **Marvel : [Marvel](https://t.me/Marvelybot)** (Not maintained)
 - **Tereuhte : [Tereuhte](https://t.me/tereuhtex_bot)** (Up & Stable)
