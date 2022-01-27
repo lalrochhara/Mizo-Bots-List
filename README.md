@@ -9,11 +9,12 @@ ___________________________________________
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
-- **Sangtei : [Miss Sangtei](https://t.me/Sangtei_bot)**
-- **Cathy : [Cathy](https://t.me/Cathyy_bot)**
-- **Marvel : [Marvel](https://t.me/Marvelybot)**
-- **Tereuhte : [Tereuhte](https://t.me/tereuhtex_bot)**
-- **Lynn : [Lynn](https://t.me/dikams_bot)**
+- **Sangtei : [Miss Sangtei](https://t.me/Sangtei_bot)** (Not Maintained)
+- **Cathy : [Cathy](https://t.me/Cathyy_bot)** (Not maintained)
+- **Marvel : [Marvel](https://t.me/Marvelybot)** (Not maintained)
+- **Tereuhte : [Tereuhte](https://t.me/tereuhtex_bot)** (Up & Stable)
+- **Lynn : [Lynn](https://t.me/dikams_bot)** (Unknown Conditions)
+- **Bawihtei : [Bawihtei](https://t.me/BawihteiBot)** (Up & Stable)
 
 ## <div align="center"> Want to Add your bot here?</div>
 - if you want to add your telegram bot here in our list, submit your bot below.
